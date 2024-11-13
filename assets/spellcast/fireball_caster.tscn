@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dod7c226vh0u4"]
+
+[ext_resource type="Script" path="res://assets/spellcast/fireball_caster.gd" id="1_g561n"]
+
+[node name="FireballCaster" type="Node3D"]
+script = ExtResource("1_g561n")

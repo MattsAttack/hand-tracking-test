@@ -78,9 +78,9 @@ max = 0.0
 [resource]
 script = ExtResource("2_ykawg")
 pose_name = "Fist"
-threshold = 0.3
-hold_time = 0.2
-release_time = 0.2
+threshold = 0.1
+hold_time = 0.05
+release_time = 0.05
 flexion_thumb = SubResource("Resource_nb4va")
 flexion_index = SubResource("Resource_j5qa6")
 flexion_middle = SubResource("Resource_rmm3v")
